@@ -1,19 +1,6 @@
 {
-  "version": "0.1.0",
-  "notes": "First release",
-  "pub_date": "2026-06-15T12:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "<ed25519 signature>",
-      "url": "https://github.com/JiaSidao01/forge/releases/download/v0.1.0/forge_0.1.0_x64-setup.exe"
-    },
-    "darwin-x86_64": {
-      "signature": "<ed25519 signature>",
-      "url": "https://github.com/JiaSidao01/forge/releases/download/v0.1.0/Forge_0.1.0_x64.app.tar.gz"
-    },
-    "darwin-aarch64": {
-      "signature": "<ed25519 signature>",
-      "url": "https://github.com/JiaSidao01/forge/releases/download/v0.1.0/Forge_0.1.0_aarch64.app.tar.gz"
-    }
-  }
+  "version": "0.0.0",
+  "notes": "No release yet. The workflow will populate this on the first v0.1.5 release.",
+  "pub_date": "2026-05-13T00:00:00Z",
+  "platforms": {}
 }
