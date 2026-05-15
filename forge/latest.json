@@ -1,6 +1,15 @@
 {
-  "version": "0.0.0",
-  "notes": "No release yet. The workflow will populate this on the first v0.1.5 release.",
-  "pub_date": "2026-05-13T00:00:00Z",
-  "platforms": {}
+  "version": "0.1.1",
+  "notes": "Adds the updater notification system. Forge now displays a toast when a new version is available, with download progress and one-click install. Includes the small pending-restart indicator for deferred installs.",
+  "pub_date": "2026-05-15T14:25:10+02:00",
+  "platforms": {
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGZRQWhuZzRGemtSTmtVVldyeFdtZHNJWnpwaDM4MzR0RTZlekNvMjlWM2NxZkdEUG1VQUhUcTUyZEpYdVFBVnpSZHlybTQwT0NwYnNYQ21pa3dOOFhKVTIvaGZha0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODQ5NTk3CWZpbGU6Zm9yZ2VfMC4xLjFfeDY0X2VuLVVTLm1zaQoxVlNrbW1LRk5nRGFTbjBnZmZUSWpDMkNuMUlydU9vQm93NVo4VjM2QzZwS28xUHl3a1Z2cDUxK2UrOFVYdFN3eFR3aE9OT3hVd0EwUXV4MGNtTXFDZz09Cg==",
+      "url": "https://updates.prismanexus.app/forge/v0.1.1/forge_0.1.1_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGZRQWhuZzRGemtwWFlrbm5RcXJ5UytERjlZY24vcytkQkY1Vm0wbHh1NUtMTEpZMCtpUVMzektGejNsMk9vOFNzWE90b1ZadlNpQjRtS3hqVVNrM0lFcCtKSEwzcGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODQ5NTk3CWZpbGU6Zm9yZ2VfMC4xLjFfeDY0LXNldHVwLmV4ZQpMdk5RbHlHOGUxKzVzaVhiQlZHVUVCRStmVXlGYTlWWWlyRWhyVlJLdU4vVFI0OWZBRFU4VTFUQ204QjFwUFZKSWU4MkFGemZmQTU2NDEvYkVqUWtEUT09Cg==",
+      "url": "https://updates.prismanexus.app/forge/v0.1.1/forge_0.1.1_x64-setup.exe"
+    }
+  }
 }
