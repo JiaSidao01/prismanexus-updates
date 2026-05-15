@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Improves how Forge launches with Windows. The 'Launch at startup' setting now uses a more reliable method that survives reinstalls and updates correctly. Forge also no longer starts minimized when you open it manually — only when Windows starts it automatically at login.",
-  "pub_date": "2026-05-15T19:39:09+02:00",
+  "version": "0.1.3",
+  "notes": "Adds a discreet suggestion to launch Forge with Windows after you've used it for a few minutes — non-blocking, dismissable once forever. Also fixes the About dialog and /version command showing an outdated version number.",
+  "pub_date": "2026-05-15T23:03:25+02:00",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGZRQWhuZzRGemthcFZmWDVjNmduVjlLNVdRUTc4NjBvdXdYWTBJRHM0dHRjMVVYTHAzL2NPWXRQcGxPaTJoRTRGdk1iMXlSRytaVHYyajcvZCtTaExyak53S1plMFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODY4MjI2CWZpbGU6Zm9yZ2VfMC4xLjJfeDY0LXNldHVwLmV4ZQp4Yi8rQ1BIdlNUSEsvVzdwU2ZXNVA5TlgrbnJOZWRrSlhENjNjR2ZpcHVKMkNHSFd6VE5GcmJNUUcwYjVrK3gvcTRyOE1CUXR4ejI3TDZLM2RVa2VEQT09Cg==",
-      "url": "https://updates.prismanexus.app/forge/v0.1.2/forge_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGZRQWhuZzRGemk0OElQVHYzUDJvN1Y0bVZuRjRLREE2YmtzS0p3UXhIMU50eHJUZzhHakFhbERYWDdlVGdKTEpiSGtyQTFZdnA3N2MrNkJDT2wzVlBrYkxMUTlMbHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODgwMzg0CWZpbGU6Zm9yZ2VfMC4xLjNfeDY0LXNldHVwLmV4ZQpZaExmcTVJWmtmS0w2OGRQTUNtcnR4K29mdXo1cENWczhKZFNncU1sWnBscUVtNjBmdnJ5akJ0R1djNndTNDVONjlIN3FnTlBiY3dZbTZGdkU2T2RCdz09Cg==",
+      "url": "https://updates.prismanexus.app/forge/v0.1.3/forge_0.1.3_x64-setup.exe"
     }
   }
 }
