@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Fixes the 'Launch Forge with Windows' suggestion that wasn't appearing after using Forge for a few minutes — the usage counter now persists correctly across restarts. Also a smaller pending-update indicator with a clearer auto-shown tooltip, and a faster updater check after launch (10 s instead of 30 s).",
-  "pub_date": "2026-05-16T10:16:19+02:00",
+  "version": "0.1.5",
+  "notes": "Fixes a UX confusion when enabling Forge autostart from the suggestion prompt — the toast now shows a brief 'Autostart enabled' confirmation, and the Settings panel toggle updates immediately to match. Also displays a friendly error message if the registry write fails.",
+  "pub_date": "2026-05-16T11:27:57+02:00",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGZRQWhuZzRGenJqUW9nN1daaTVzdTcrSG9yRXZoVnVpd1pncmxMSS9XSVpLeUxQRTd2NGdTVDNPSFRvYU1qTlFQQlpYUllnNzVXcTFUK1JzZGtKa3RtWFo5bTd1VEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTIwNjM1CWZpbGU6Zm9yZ2VfMC4xLjRfeDY0LXNldHVwLmV4ZQo4VEJSY1JoQ2VxSVVtNDVhZnlITlBoZ0FNdFQ1K0Q4dmVSd1JoS2xzSGtVSVZqUTF3cGNtMEJ1cHNjdklFZHI0Znh6dy9QMHhobGpmZCtlSlh1WlVDQT09Cg==",
-      "url": "https://updates.prismanexus.app/forge/v0.1.4/forge_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGZRQWhuZzRGenI3d0NGVUxiY3BkQTRxb1F3N2VOUFdHZWxtbU5nTkNKUWVWeDY3dFBTWEdTYmhYbWsvU2JNcFUvZVpLNW1wUnF4d3d1S09TSHhJaHVVVm9kRE1rV1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTI1MDQ3CWZpbGU6Zm9yZ2VfMC4xLjVfeDY0LXNldHVwLmV4ZQpYak9vVmNxdHJEaWlCdFdPTy9yWFZ2ekxWaVZpTS9XYlBRTHp0RFUvcEo5dk9FOTJTZWhYcmpMeS8reFY3NTlBdnB0NU1ISERlampMVUk1OWd1R09CUT09Cg==",
+      "url": "https://updates.prismanexus.app/forge/v0.1.5/forge_0.1.5_x64-setup.exe"
     }
   }
 }
