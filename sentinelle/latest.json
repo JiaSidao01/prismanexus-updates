@@ -1,0 +1,27 @@
+{
+  "version": "0.1.1",
+  "notes": "## What's new\n\n- Sentinelle can now update itself. When a new version is ready, a small\n  \"Update available\" button appears at the bottom-left of the window — one\n  click shows what changed, one more installs it and restarts the app for you.\n- A scan interrupted by closing the app now picks itself back up the next\n  time Sentinelle starts.\n\nPolish and internal improvements.",
+  "pub_date": "2026-07-25T20:34:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTl1bENWQVBadHc4bENEdVJMS3h1TkliYVRuMkU4ZDBvRlV0K08xZTQ5dGdHTEZCNHNZaGsrV0dJS3ZxUzk2SG9PR1hOYmgraENleGYrQmNXMW5IcmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDA5Mzk4CWZpbGU6U2VudGluZWxsZV8wLjEuMV94NjQtc2V0dXAuZXhlCnVlNHB6WWF1cE54KzQ3QUtvbmxBeHJFM0NqMk9wZ2c3WmkyNFo0R2FXQlZIY1NrK002SGJlZmgrNWJ0RitTWjNOOGNQbXpJa3dnOTNBR3pYVml2bkJBPT0K",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.1/Sentinelle-v0.1.1-windows-x86_64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTl1bENWQVBadHc4bENEdVJMS3h1TkliYVRuMkU4ZDBvRlV0K08xZTQ5dGdHTEZCNHNZaGsrV0dJS3ZxUzk2SG9PR1hOYmgraENleGYrQmNXMW5IcmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDA5Mzk4CWZpbGU6U2VudGluZWxsZV8wLjEuMV94NjQtc2V0dXAuZXhlCnVlNHB6WWF1cE54KzQ3QUtvbmxBeHJFM0NqMk9wZ2c3WmkyNFo0R2FXQlZIY1NrK002SGJlZmgrNWJ0RitTWjNOOGNQbXpJa3dnOTNBR3pYVml2bkJBPT0K",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.1/Sentinelle-v0.1.1-windows-x86_64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcXpYN1V3V1lQRmM4U3hOa093YWVXTVFBTzNJYUVhR2RXY3RXTnR3T0tlRExqLzhaMkJ0QlJ0UnlPNlJsU2ljUlMrYS9UZUhkOE1CR2MvM0cyNm0yN2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDA5Mzk4CWZpbGU6U2VudGluZWxsZV8wLjEuMV94NjRfZW4tVVMubXNpCkxRbmM0NnJIWFpYZVVRbTBNNXJLdU5tOWNiM09Tb05Cd292aDJ0UlRYUmcxTmRCTmw2RzU3cjBBSERMMHQyeUxzQ3FjNkppZkcwZ2lRalp0TTk4a0JRPT0K",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.1/Sentinelle-v0.1.1-windows-x86_64.msi"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTZhaWtRcG4vMmFrdW1WZ0c1OVZZZ0VQcEF3NjhVRVpZNUZJUjhBSk53UGUxanJUU0ZMMlNXcjMwdGJ3SEMxSWRoWG43dHdseFNkRGcwTUsxVUZYaFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDA3MjcyCWZpbGU6U2VudGluZWxsZS5hcHAudGFyLmd6ClZYOTFyekZvVFpuaEpBUjFtZW1raEt1Uk40NTlhQzRTdGV3MEY1N0VaVTcwRjVUOXV3YUYwMUhUbHp0d0NUQUtuaHBrSERDSFNsQXM1OExWODE4dEFBPT0K",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.1/Sentinelle-v0.1.1-macos-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTZhaWtRcG4vMmFrdW1WZ0c1OVZZZ0VQcEF3NjhVRVpZNUZJUjhBSk53UGUxanJUU0ZMMlNXcjMwdGJ3SEMxSWRoWG43dHdseFNkRGcwTUsxVUZYaFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDA3MjcyCWZpbGU6U2VudGluZWxsZS5hcHAudGFyLmd6ClZYOTFyekZvVFpuaEpBUjFtZW1raEt1Uk40NTlhQzRTdGV3MEY1N0VaVTcwRjVUOXV3YUYwMUhUbHp0d0NUQUtuaHBrSERDSFNsQXM1OExWODE4dEFBPT0K",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.1/Sentinelle-v0.1.1-macos-universal.app.tar.gz"
+    }
+  }
+}
