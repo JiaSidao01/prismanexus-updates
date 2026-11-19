@@ -1,27 +1,27 @@
 {
-  "version": "0.1.4",
-  "notes": "## What's new\n\n- Listings from 11 more Geneva agencies: BDD, Besuchet, Cogerim, Nestya, Progrimm, Moser Vernet, Tournier, Régie du Centre, Burger, Régimo and énéo.\n- GPF works again: their website changed, and Sentinelle now reads the new one.\n- When an agency simply has nothing to rent or sell right now, you see a small green check next to its 0 instead of an error.\n- Flats already sold or rented are no longer shown as offers.\n- Surfaces with decimals (like 60.5 m²) are now read correctly.\n- Adding an agency yourself is more reliable: the app uses the newest AI model and tries harder before giving up.\n\nPolish and internal improvements.",
-  "pub_date": "2026-11-17T21:35:29Z",
+  "version": "0.1.5",
+  "notes": "- Parking spaces, storage rooms and boxes no longer slip in among your offers.\n- Régie VPI listings show their title, price and location again.\n- Scans now warns you when a website's listings start arriving without a price or a location, so a change on that website no longer goes unnoticed.\n- Today now opens on rentals, and its switch reads Rental, Purchase, Both.\n- On smaller screens, the window now opens fully inside the screen.\n- The legal text at the bottom of PDF reports no longer runs off the page.\n\nSecurity updates, polish and internal improvements.",
+  "pub_date": "2026-11-19T07:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcStpQ2FFeGF6WmhZRHZpSEpGQW5kY0FFQ0VJcWx3SnRseVNKMitEbDRpMUgwSE1kK3JVa2p2QnBNcXJTMk15Z2hseUJyOUpBVkJYTFlwM2RyZUkrRUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUwNTE1CWZpbGU6U2VudGluZWxsZV8wLjEuNF94NjQtc2V0dXAuZXhlCkVKbmx6b1gzYjlCa01lMWpYcFhnZnkxcTRJcElkTGdCN2VsYzloaUU1aHBMTkp2TG5kRmdwdXYwQlZ1OFc0b2s0SzNGeWR2NFFXNVVBdWRXNXBqbENRPT0K",
-      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.4/Sentinelle-v0.1.4-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcXhERm1JakRuMVorb3hjaWcza2lxa015RGhyQlJuY3hhTUlia1RDRjE3eWxoMWlVVTFLQ05yYVZWLzRRNlh2NkE1dUpwTWoxNjNHU2pHS2hyYTNvV2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4MjQ3CWZpbGU6U2VudGluZWxsZV8wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKTmhxR3FQMk9wOVE2ZXQ5b00rd004VWszbEhnRjFPeTMxSVdiYytzYnJkMmxvWTNScHFrNUpnbmxENVdwZVZDWWNwMWZYMmFtREdRcEM2ZlVQV2JGRFE9PQo=",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.5/Sentinelle-v0.1.5-windows-x86_64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcStpQ2FFeGF6WmhZRHZpSEpGQW5kY0FFQ0VJcWx3SnRseVNKMitEbDRpMUgwSE1kK3JVa2p2QnBNcXJTMk15Z2hseUJyOUpBVkJYTFlwM2RyZUkrRUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUwNTE1CWZpbGU6U2VudGluZWxsZV8wLjEuNF94NjQtc2V0dXAuZXhlCkVKbmx6b1gzYjlCa01lMWpYcFhnZnkxcTRJcElkTGdCN2VsYzloaUU1aHBMTkp2TG5kRmdwdXYwQlZ1OFc0b2s0SzNGeWR2NFFXNVVBdWRXNXBqbENRPT0K",
-      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.4/Sentinelle-v0.1.4-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcXhERm1JakRuMVorb3hjaWcza2lxa015RGhyQlJuY3hhTUlia1RDRjE3eWxoMWlVVTFLQ05yYVZWLzRRNlh2NkE1dUpwTWoxNjNHU2pHS2hyYTNvV2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4MjQ3CWZpbGU6U2VudGluZWxsZV8wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKTmhxR3FQMk9wOVE2ZXQ5b00rd004VWszbEhnRjFPeTMxSVdiYytzYnJkMmxvWTNScHFrNUpnbmxENVdwZVZDWWNwMWZYMmFtREdRcEM2ZlVQV2JGRFE9PQo=",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.5/Sentinelle-v0.1.5-windows-x86_64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTdYK3JCVktmaG4yU3VwN2pDOGFkaDFmNS9DTUdyMGhsdGluYkxJd01mV1VXZS9sR0NYbE53WkluVHAra1dwcjdHcWF4TXB5YXZyWmoxK0VUN0hacXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUwNTE1CWZpbGU6U2VudGluZWxsZV8wLjEuNF94NjRfZW4tVVMubXNpCm9JT3BDNlYwWFRYMFJwckVBYXcyaWg5U0JUTmY4cUVnUXA2SHFOZDBKc1FDN3lUZC92RWlBakJVZzhFUVdpZ29rOEUwQnNUNFhhdG5PNVlMZHRvUEFRPT0K",
-      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.4/Sentinelle-v0.1.4-windows-x86_64.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTMxc1ZNbWF4VkVxSTAxUmlGbmdQYzBna3ozMDRMSEZObVJiakVZenF4SW00QVg1cnREZUdGOWxWOFE3dmo3R0U4WnJYVDZwQi93TzhvcFlxSUo4UVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4MjQ3CWZpbGU6U2VudGluZWxsZV8wLjEuNV94NjRfZW4tVVMubXNpCXZlcnNpb246MC4xLjUKVVZYVkoxbDQ3TXhNRkdBSUZnSXp6bExQSWtGQzlCQXVNZlM5RU9Cb0FhNzRnTXgxZEdyb2lMaEZzY20wZ3diOVVmRjBLYy83Z1JKeXc2NnIyZjdqREE9PQo=",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.5/Sentinelle-v0.1.5-windows-x86_64.msi"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTVNMnpzL29Oc2JwZ1VFT0YvNnFUdWo5U3NobTdabUZGNWxaeG9sVDlKTEx2MzRmSkJ0M2lmNlFZU2RTTXJ1bjFpVzk1RVBkZHNiNSsvenVLQnZJMGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ5NzYyCWZpbGU6U2VudGluZWxsZS5hcHAudGFyLmd6CndUOTFOSjdKUVhyRjg2TjYwb25HNHMySWljYW5QemowRFdVSmx4UEU2Q3pTSHNqeFA1T0ZQcUJ2Y3lmcC9LQ0hCMTRRYzlnVEJXa0RyRVZIRXdpcEFRPT0K",
-      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.4/Sentinelle-v0.1.4-macos-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTFqZWlFMGdQamQ5VENjRUptb2U3bVpBZk9LMjYrM1lQTXd2OHdDcjlRKytHY0FKSXdhMElSTUt0TTZpeEtRdVhHM1lBbW5mZDIrZlVQRmFlLzBGb3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM3NTc3CWZpbGU6U2VudGluZWxsZS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjUKSFIzLzdPRmNUM1BrUHp1bW5LSUNGZFdKc2JLQlMzODI4MjgrYXZIdkUxNk1LR1k1WUtWV2lGMzFuU21tZXZMZmp3bjdmMjI1Sy9FVW8za0FEYUZFRGc9PQo=",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.5/Sentinelle-v0.1.5-macos-universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTVNMnpzL29Oc2JwZ1VFT0YvNnFUdWo5U3NobTdabUZGNWxaeG9sVDlKTEx2MzRmSkJ0M2lmNlFZU2RTTXJ1bjFpVzk1RVBkZHNiNSsvenVLQnZJMGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ5NzYyCWZpbGU6U2VudGluZWxsZS5hcHAudGFyLmd6CndUOTFOSjdKUVhyRjg2TjYwb25HNHMySWljYW5QemowRFdVSmx4UEU2Q3pTSHNqeFA1T0ZQcUJ2Y3lmcC9LQ0hCMTRRYzlnVEJXa0RyRVZIRXdpcEFRPT0K",
-      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.4/Sentinelle-v0.1.4-macos-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYmZNTEtNMGxjcTFqZWlFMGdQamQ5VENjRUptb2U3bVpBZk9LMjYrM1lQTXd2OHdDcjlRKytHY0FKSXdhMElSTUt0TTZpeEtRdVhHM1lBbW5mZDIrZlVQRmFlLzBGb3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM3NTc3CWZpbGU6U2VudGluZWxsZS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjUKSFIzLzdPRmNUM1BrUHp1bW5LSUNGZFdKc2JLQlMzODI4MjgrYXZIdkUxNk1LR1k1WUtWV2lGMzFuU21tZXZMZmp3bjdmMjI1Sy9FVW8za0FEYUZFRGc9PQo=",
+      "url": "https://github.com/JiaSidao01/prismanexus-updates/releases/download/sentinelle-v0.1.5/Sentinelle-v0.1.5-macos-universal.app.tar.gz"
     }
   }
 }
